@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinIJKPlayer</string>
+    <string name="btn_load">Load</string>
+</resources>
